@@ -1,0 +1,1 @@
+//this is a understanding of github and javascript
